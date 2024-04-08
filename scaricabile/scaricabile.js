@@ -144,10 +144,10 @@ function searchJobs(titleQuery, locationQuery) {
 
 //console.log(searchJobs("english", "us"));
 
-function searchOnClick() {
-  const titleQuery = document.getElementById("titleQuery").value;
-  const locationQuery = document.getElementById("locationQuery").value;
-  // console.log(titleQuery)
-  const data = searchJobs(titleQuery, locationQuery);
-  console.log(data)
-}
+// function searchOnClick() {
+//   const titleQuery = document.getElementById("titleQuery").value;
+//   const locationQuery = document.getElementById("locationQuery").value;
+//   // console.log(titleQuery)
+//   const data = searchJobs(titleQuery, locationQuery);
+//   console.log(data)
+// }
