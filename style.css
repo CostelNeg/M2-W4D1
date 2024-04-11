@@ -1,3 +1,9 @@
 .ricerca{
     margin-left: 50%;
 }
+.addClass {
+    margin-left: 20%;
+    background-color: azure;
+    border: 1px solid rebeccapurple;
+    width: fit-content;
+}
